@@ -1,20 +1,20 @@
 const data2 = [
   {
     id: 11,
-    src: "./zaid1.jpg",
-    title: "zaid",
+    src: "./images.png",
+    title: "User",
     des: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
   },
   {
     id: 12,
-    src: "./ghassan2.jpg",
-    title: "ghassan",
+    src: "./images.png",
+    title: "User",
     des: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
   },
   {
     id: 13,
-    src: "./abdallah3.jpg",
-    title: "abdallah",
+    src: "./images.png",
+    title: "User",
     des: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
   },
 ];

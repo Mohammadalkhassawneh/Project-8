@@ -10,6 +10,7 @@ import Login from "./components/registration/Login";
 import Landingpage from "./components/landingpage/Landingpage";
 import Footer from "./components/footer/Footer";
 import Aboutus from "./components/aboutUs/Aboutus";
+import User from "./components/userprofile/User";
 import ScrollToTop from "./components/scrolltotop/ScrollToTop";
 import { useState, useEffect } from "react";
 function App() {
@@ -92,6 +93,7 @@ function App() {
                 <Signup setSubmitted={setSubmitted} setLogged={setLogged} />
               }
             />
+            <Route path="/user" element={<User />} />
           </Routes>
         </div>
         <Footer />
