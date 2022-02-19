@@ -21,7 +21,7 @@ const Landingpage = () => {
               data-interval="500"
             >
               <div className="ladingpage-slider-container-btn">
-                <p>Make Your Life Easy</p>
+                <p>Make Your Life Eas</p>
                 <div>
                   <Link to="/listingcars">
                     <button>RENT NOW</button>
