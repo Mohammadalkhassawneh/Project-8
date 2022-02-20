@@ -8,11 +8,13 @@ const Aboutus = () => {
   return (
     <div className="aboutus">
       <div className="aboutus-about-section">
+        <h1> About Us</h1>
+        <div className="about">
         <div className="aboutus-img">
-          <img src="./aboutimg.jpg" alt="car" />
+          <img height="300px" src="./e-learning_digital_education-1200x1080.webp" alt="car" />
         </div>
         <div className="aboutus-text">
-          <h1>The Leading Rental Marketplace</h1>
+          <h2>Weekly Guidelines for Students in Asynchronous Online Courses</h2>
           <p>
             Nam liber tempor cum soluta nobis eleifend option congue nihil
             imperdiet doming id quod mazim placerat facer possim assum. legentis
@@ -22,6 +24,7 @@ const Aboutus = () => {
           <Link to="/listingcars">
             <button>Discover More</button>
           </Link>
+        </div>
         </div>
       </div>
       <div className="ourteam">

@@ -1,21 +1,21 @@
 const data3 = [
   {
-    id: 21,
-    src: "./kholoud123.jpg",
-    name: "Kholoud",
-    position: "front-end developer",
+    id: 1,
+    src: "./WhatsApp_Image_2021-11-04_at_12.52.18_AM.jpeg",
+    name: "Hazem Alrfati",
+    position: "Full-Stake developer",
   },
   {
-    id: 22,
-    src: "./sanad1.jpg",
-    name: "Sanad",
-    position: "front-end developer",
+    id: 2,
+    src: "./RHI_3184.jpg",
+    name: "Mohammad ",
+    position: "Full-Stake developer",
   },
   {
-    id: 23,
-    src: "./haneen321.jpg",
-    name: "Haneen",
-    position: "front-end developer",
+    id:3,
+    src: "./20210620_111420-01.jpeg",
+    name: "Ali Obeidat",
+    position: "Full-Stake developer",
   },
 ];
 export default data3;
